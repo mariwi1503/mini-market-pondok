@@ -49,10 +49,10 @@ export default function Header({ title, showBack = false, showSearch = true }: H
                   FB
                 </div>
                 <span className="font-bold text-sm md:text-base hidden sm:block">
-                  {title || 'Mini Market Faizal Baqarah'}
+                  {title || 'Mini Market Faiz Al Baqarah'}
                 </span>
                 <span className="font-bold text-sm sm:hidden">
-                  {title || 'Faizal Baqarah'}
+                  {title || 'Faiz Al Baqarah'}
                 </span>
               </Link>
             </div>

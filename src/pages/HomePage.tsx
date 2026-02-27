@@ -41,7 +41,7 @@ export default function HomePage() {
               <span className="text-white/90 text-xs font-medium">Buka Setiap Hari 06:00 - 22:00</span>
             </div>
             <h1 className="text-2xl md:text-4xl font-bold text-white mb-2">
-              Mini Market <span className="text-[#D4AF37]">Faizal Baqarah</span>
+              Mini Market <span className="text-[#D4AF37]">Faiz Al Baqarah</span>
             </h1>
             <p className="text-white/70 text-sm md:text-base max-w-md mx-auto">
               Belanja kebutuhan harian dengan mudah dan berkah. Gratis ongkir untuk semua pesanan!
@@ -214,7 +214,7 @@ export default function HomePage() {
         <div className="bg-gradient-to-r from-[#1B4332] to-[#2D6A4F] rounded-2xl p-6 md:p-10 text-white text-center">
           <h2 className="text-xl md:text-2xl font-bold mb-2">Tentang Kami</h2>
           <p className="text-white/80 text-sm md:text-base max-w-2xl mx-auto mb-4">
-            Mini Market Faizal Baqarah adalah toko kelontong modern yang berada di lingkungan Pondok Pesantren Faizal Baqarah. 
+            Mini Market Faiz al Baqarah adalah toko kelontong modern yang berada di lingkungan Pondok Pesantren Faiz al Baqarah. 
             Kami menyediakan berbagai kebutuhan harian dengan harga terjangkau dan produk yang terjamin halal.
           </p>
           <a
@@ -238,12 +238,12 @@ export default function HomePage() {
                   FB
                 </div>
                 <div>
-                  <h3 className="font-bold">Mini Market Faizal Baqarah</h3>
+                  <h3 className="font-bold">Mini Market Faiz Al Baqarah</h3>
                   <p className="text-xs text-white/60">Belanja Mudah, Berkah Selalu</p>
                 </div>
               </div>
               <p className="text-sm text-white/70 mb-4 max-w-sm">
-                Toko kelontong modern di lingkungan Pondok Pesantren Faizal Baqarah. 
+                Toko kelontong modern di lingkungan Pondok Pesantren Faiz Al Baqarah. 
                 Menyediakan kebutuhan harian santri dan masyarakat sekitar.
               </p>
               <div className="flex gap-3">
@@ -279,7 +279,7 @@ export default function HomePage() {
           </div>
           <div className="border-t border-white/10 mt-8 pt-6 text-center">
             <p className="text-xs text-white/50">
-              &copy; 2026 Mini Market Faizal Baqarah. Pondok Pesantren Faizal Baqarah.
+              &copy; 2026 Mini Market Faiz Al Baqarah. Pondok Pesantren Faiz Al Baqarah.
             </p>
           </div>
         </div>

@@ -54,7 +54,7 @@ Manfaatkan promo dan diskon yang tersedia. Bandingkan harga di beberapa toko seb
 Prioritaskan kebutuhan pokok seperti beras, minyak goreng, dan bumbu dapur sebelum membeli kebutuhan sekunder.
 
 **4. Manfaatkan Belanja Online**
-Belanja online bisa menghemat waktu dan biaya transportasi. Mini Market Faizal Baqarah menyediakan layanan belanja online yang praktis.
+Belanja online bisa menghemat waktu dan biaya transportasi. Mini Market Faiz al Baqarah menyediakan layanan belanja online yang praktis.
 
 **5. Simpan Struk Belanja**
 Catat pengeluaran belanja untuk evaluasi keuangan bulanan.
@@ -147,7 +147,7 @@ Orang yang rutin sarapan cenderung memiliki berat badan yang lebih terkontrol.
 - Telur rebus
 - Oatmeal
 
-Jangan lewatkan sarapan pagi! Kunjungi Mini Market Faizal Baqarah untuk mendapatkan kebutuhan sarapan Anda.`,
+Jangan lewatkan sarapan pagi! Kunjungi Mini Market Faiz al Baqarah untuk mendapatkan kebutuhan sarapan Anda.`,
     image: 'https://d64gsuwffb70l.cloudfront.net/69a0fc2ec1e9be6446678960_1772158597200_7bcd5080.jpg',
     author: 'Dr. Aisyah',
     date: '2026-02-15',
@@ -173,7 +173,7 @@ Cara: Rebus mie, tumis telur dan sayuran, campurkan mie dengan bumbu.
 Bahan: Telur, wortel parut, daun bawang, garam.
 Cara: Kocok telur dengan sayuran, goreng hingga matang.
 
-Semua bahan bisa didapatkan di Mini Market Faizal Baqarah dengan harga terjangkau!`,
+Semua bahan bisa didapatkan di Mini Market Faiz al Baqarah dengan harga terjangkau!`,
     image: 'https://d64gsuwffb70l.cloudfront.net/69a0fc2ec1e9be6446678960_1772158598724_8c58744f.jpg',
     author: 'Chef Ridwan',
     date: '2026-02-12',

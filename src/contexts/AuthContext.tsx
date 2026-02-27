@@ -27,14 +27,14 @@ const DEMO_USERS = {
     name: 'Ahmad Santri',
     phone: '081234567890',
     email: 'ahmad@pondok.com',
-    address: 'Pondok Pesantren Faizal Baqarah, Jl. Pesantren No. 1',
+    address: 'Pondok Pesantren Faiz Al Baqarah, Jl. Pesantren No. 1',
   },
   admin: {
     id: 'u2',
     name: 'Admin Toko',
     phone: '081298765432',
     email: 'admin@minimarket.com',
-    address: 'Mini Market Faizal Baqarah',
+    address: 'Mini Market Faiz Al Baqarah',
   },
 };
 
